@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="projet_recherche_dannonces:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/projet_recherche_dannonces_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="projet_recherche_dannonces" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/JavaAvancé/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="projet_recherche_dannonces/web/Web" />
+    </root>
+  </artifact>
+</component>
